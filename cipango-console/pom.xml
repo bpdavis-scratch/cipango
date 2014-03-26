@@ -73,7 +73,7 @@
     <repository>
       <id>opennms-repo</id>
       <name>OpenNMS Repository</name>
-      <url>http://repo.opennms.org/content/repositories/opennms-repo</url>
+      <url>http://maven.opennms.org/content/repositories/opennms.org-release</url>
       <snapshots>
         <enabled>false</enabled>
       </snapshots>
